@@ -5,7 +5,7 @@ export const personalInfo = {
   name: "Naziya Parveen",
   roles: ["Full-Stack Developer", "React Developer", "MERN Stack Developer", "Next.js Developer"],
   email: "naziyap123@gmail.com",
-  phone: "+91 63471 1630",
+  phone: "+91 63874 16610",
   github: "https://github.com/Naziya007",
   linkedin: "https://www.linkedin.com/in/naziya-parveen-769428303/",
   leetcode: "https://leetcode.com/u/UqrskmwQGn/",
@@ -25,7 +25,7 @@ export const experiences = [
     id: 1,
     role: "Full-Stack Developer Intern",
     company: "MyPMS Solution",
-    duration: "Dec 2027 — Mar 2028",
+    duration: "Dec 2027 - Mar 2028",
     points: [
       "Designed and developed a scalable full-stack POS system tailored for hotel management operations",
       "Implemented billing, order lifecycle management, and inventory tracking via a reactive workflow",
@@ -38,7 +38,7 @@ export const experiences = [
     id: 2,
     role: "Frontend Developer Intern",
     company: "DevX-Alpha",
-    duration: "Jul 2025 — Oct 2025",
+    duration: "Jul 2025 - Oct 2025",
     points: [
       "Developed and enhanced the company website using Next.js with improved UI responsiveness",
       "Integrated frontend with backend services and participated in deployment cycles",
