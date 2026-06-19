@@ -71,7 +71,7 @@ export const projects = [
     ],
     github: "https://github.com/Naziya007/SkillSwap",
     live: "https://skillswap-1-7cm3.onrender.com",
-    color: "#7c3aed",
+    color: "#6366f1",
   },
   {
     id: 2,
@@ -86,7 +86,7 @@ export const projects = [
     ],
     github: "https://github.com/Naziya007/Pos-project",
     live: "https://pos-project-1.onrender.com",
-    color: "#ec4899",
+    color: "#10b981",
   },
   {
     id: 3,
@@ -101,7 +101,7 @@ export const projects = [
     ],
     github: "#",
     live: "https://akshargyan.org.in/",
-    color: "#06b6d4",
+    color: "#0ea5e9",
   },
 ];
 

@@ -16,23 +16,23 @@
 
 :root {
   /* backgrounds */
-  --bg-primary: #0a0a1a;
-  --bg-secondary: #1a1a2e;
-  --bg-card: rgba(255, 255, 255, 0.05);
+  --bg-primary: #070714;
+  --bg-secondary: #0f0e24;
+  --bg-card: rgba(255, 255, 255, 0.035);
 
   /* typography */
-  --text-primary: #f1f5f9;
+  --text-primary: #f8fafc;
   --text-secondary: #94a3b8;
 
   /* accents */
-  --accent-purple: #7c3aed;
-  --accent-pink: #ec4899;
-  --accent-cyan: #06b6d4;
-  --gradient-accent: linear-gradient(135deg, #7c3aed, #ec4899);
+  --accent-purple: #6366f1; /* Electric Indigo */
+  --accent-pink: #10b981; /* Emerald Mint */
+  --accent-cyan: #0ea5e9; /* Sky Blue */
+  --gradient-accent: linear-gradient(135deg, #6366f1, #10b981);
 
   /* glass */
-  --glass-border: rgba(255, 255, 255, 0.1);
-  --glass-blur: blur(12px);
+  --glass-border: rgba(255, 255, 255, 0.07);
+  --glass-blur: blur(16px);
 
   /* fonts */
   --font-heading: 'Outfit', sans-serif;
