@@ -16,22 +16,22 @@
 
 :root {
   /* backgrounds */
-  --bg-primary: #070714;
-  --bg-secondary: #0f0e24;
+  --bg-primary: #0b0507; /* Midnight Crimson Black */
+  --bg-secondary: #180c10; /* Dark Wine Burgundy */
   --bg-card: rgba(255, 255, 255, 0.035);
 
   /* typography */
-  --text-primary: #f8fafc;
-  --text-secondary: #94a3b8;
+  --text-primary: #fdf8f9;
+  --text-secondary: #b5a5a9;
 
   /* accents */
-  --accent-purple: #6366f1; /* Electric Indigo */
-  --accent-pink: #10b981; /* Emerald Mint */
-  --accent-cyan: #0ea5e9; /* Sky Blue */
-  --gradient-accent: linear-gradient(135deg, #6366f1, #10b981);
+  --accent-purple: #e11d48; /* Vibrant Crimson */
+  --accent-pink: #f97316; /* Sunset Orange */
+  --accent-cyan: #fda4af; /* Rose Gold / Light Crimson */
+  --gradient-accent: linear-gradient(135deg, #e11d48, #f97316);
 
   /* glass */
-  --glass-border: rgba(255, 255, 255, 0.07);
+  --glass-border: rgba(255, 255, 255, 0.06);
   --glass-blur: blur(16px);
 
   /* fonts */
