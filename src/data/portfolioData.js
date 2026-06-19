@@ -145,7 +145,7 @@ export const achievements = [
   {
     id: 1,
     title: "Smart India Hackathon",
-    description: "Selected in the national round of Smart India Hackathon (SIH)",
+    description: "Selected in the internal round of Smart India Hackathon (SIH)",
     icon: "🏆",
   },
   {
